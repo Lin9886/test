@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("mainµÄÎÄ±¾")£»
-	return 0£»
+	printf("week1")ï¿½ï¿½
+	return 0ï¿½ï¿½
 }
